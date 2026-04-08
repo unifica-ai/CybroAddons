@@ -2,7 +2,7 @@
     height: calc(100% - 0%);
 	position: fixed;
     top: 0px;
-    background-color: #2a3042;
+    background-color: #0f172a;
     display: none;
     width: 200px;
     overflow-y: scroll;
@@ -26,7 +26,7 @@
     height: 35px;
     padding-top: 5px;
     top: 0;
-    background: #2a3042;
+    background: #0f172a;
     z-index: 1;
 }
 .sidebar_panel .sidebar_close a#closeSidebar {
@@ -50,7 +50,7 @@
 .sidebar_panel .sidebar .sidebar_head {
     padding-top: 20px;
     padding-left: 15px;
-    color: #6a7187;
+    color: #5f6b7a;
     font-size: 14px;
 }
 
@@ -79,7 +79,7 @@
     transition:.3s all;
 }
 .sidebar_panel .sidebar .sidebar_menu li:hover  a {
-    background: #1e2230;
+    background: #080e1a;
     color: #fff;
 }
 .sidebar_panel .nav-link {
